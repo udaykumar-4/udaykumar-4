@@ -12,20 +12,6 @@
 I’m a 3rd-year Computer Science student at SGBIT focused on building efficient, scalable, and real-world applications.
 
 
-
----
-
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -89,7 +75,19 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: your-linkedin-link  
-- 🌐 Portfolio: coming soon  
+- 🌐 Portfolio: coming soon
+
+---
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
