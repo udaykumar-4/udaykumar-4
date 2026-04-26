@@ -43,16 +43,6 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🎟️ Theatre Management System
-- Movie booking system with seat selection  
-- Admin dashboard  
-- Payment integration  
-- Tech: HTML, CSS, JS, PHP, MySQL  
-
 
 ---
 
@@ -76,9 +66,6 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
