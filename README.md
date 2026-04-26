@@ -1,4 +1,7 @@
-
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Udaykumar+Kulloli;Aspiring+Software+Engineer;Backend+Developer+in+Progress" />
+</p>
 ---
 
 # 👨‍💻 Udaykumar Kulloli
@@ -8,10 +11,7 @@
 I’m a 3rd-year Computer Science student at SGBIT focused on building efficient, scalable, and real-world applications.
 
 ---
-<!-- 🔥 Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Udaykumar+Kulloli;Aspiring+Software+Engineer;Backend+Developer+in+Progress" />
-</p>
+
 
 ---
 
