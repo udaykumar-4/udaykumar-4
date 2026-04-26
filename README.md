@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Udaykumar+Kulloli;Aspiring+Software+Engineer;Backend+Developer+in+Progress" />
 </p>
 
+---
+
 # 👨‍💻 Udaykumar Kulloli
 
 ### 🚀 Computer Science Student | Backend Developer | Problem Solver
