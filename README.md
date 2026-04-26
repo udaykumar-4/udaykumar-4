@@ -46,12 +46,21 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 
 ---
 
+## 📈 What I'm Working On
+
+- Improving Data Structures & Algorithms  
+- Building full-stack web applications  
+- Strengthening backend development skills  
+- Exploring scalable system design  
+
+---
+
 ## 🎯 Goals
 
-- Crack product-based companies  
-- Build production-level projects  
-- Contribute to open source  
-
+- Become a skilled software developer  
+- Build impactful real-world projects  
+- Crack top product-based company interviews  
+- Contribute to open-source projects  
 ---
 
 ## 📫 Connect With Me
