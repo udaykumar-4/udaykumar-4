@@ -65,8 +65,8 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 📧 Email:udaykumarkullolli@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/udaykumar-kullolli-1a20b6294/    
 - 🌐 Portfolio: coming soon
 
 ---
