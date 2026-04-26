@@ -13,6 +13,13 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 
 
 ---
+## 🧠 About Me
+
+- 🎓 Pursuing B.E. in Computer Science  
+- 💡 Passionate about software development and real-world problem solving  
+- 🔍 Always exploring new technologies and programming languages  
+- ⚡ Strong interest in backend development and databases  
+---
 
 ## 🛠️ Tech Stack
 
@@ -46,20 +53,6 @@ I’m a 3rd-year Computer Science student at SGBIT focused on building efficient
 - Payment integration  
 - Tech: HTML, CSS, JS, PHP, MySQL  
 
----
-
-### 📊 Workforce Tracking System
-- Shift & attendance tracking  
-- Real-time reporting  
-- Database-driven system  
-
----
-
-## 📈 Currently Improving
-
-- Data Structures & Algorithms  
-- Backend Development (Node.js)  
-- System Design Basics  
 
 ---
 
