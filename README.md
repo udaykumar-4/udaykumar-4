@@ -59,7 +59,7 @@ I’m a 3rd-year Computer Science student at SGBIT with a strong interest in bui
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: udaykumarkullolli@gamil.com 
 - 💼 LinkedIn: your-linkedin-profile  
 - 🌐 Portfolio: your-portfolio-link  
 
